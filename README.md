@@ -47,7 +47,8 @@ This repository presents the **Business Insights 360** report, which delivers in
 | **Products**    | Product-level insights and GM% |
 | **Executive**   | Strategic KPIs for top leadership |
 
-> 🔗 [**Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZTQ2OGE5MzMtNDU5MS00MGM3LTg2MWMtN2MxNGJkOTM1YmJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+> 🔗 [**Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiY2M2MjE3NTYtOTZiNy00OTZiLWI1ODItOTJkZTJkNzM4YjY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=17b27ef0b21297758a9e)
+
 
 ---
 
