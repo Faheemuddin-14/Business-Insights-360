@@ -112,12 +112,4 @@ This repository presents the **Business Insights 360** report, which delivers in
 This Business Insights 360 project provided AtliQ Hardware with a tailored, interactive dashboard built using Power BI and DAX. It improves strategic decision-making through insightful KPIs, efficient data modeling, and a seamless user experience.
 
 
----
-
-## 📬 Contact
-
-For questions or collaboration:
-
-**Name:** Faheem Uddin  
-**Email:** [YourEmail@example.com]  
-**LinkedIn:** [Your LinkedIn Profile]  
+--- 
